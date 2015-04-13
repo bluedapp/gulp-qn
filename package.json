@@ -1,0 +1,25 @@
+{
+  "name": "gulp-qn",
+  "version": "0.0.0",
+  "description": "qiniu gulp plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/demohi/gulp-qn.git"
+  },
+  "keywords": [
+    "qiniu",
+    "gulp",
+    "gulp-qiniu",
+    "cdn"
+  ],
+  "author": "mdemo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/demohi/gulp-qn/issues"
+  },
+  "homepage": "https://github.com/demohi/gulp-qn"
+}
