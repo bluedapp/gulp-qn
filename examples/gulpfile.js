@@ -7,7 +7,7 @@
 
 var gulp = require('gulp');
 var qn = require('../');
-gulp.task('default', function () {
+gulp.task('default', function(){
     gulp.src('./js/*')
         .pipe(qn({
             qiniu: {
