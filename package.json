@@ -1,6 +1,6 @@
 {
   "name": "gulp-qn",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "qiniu gulp plugin",
   "main": "index.js",
   "scripts": {
