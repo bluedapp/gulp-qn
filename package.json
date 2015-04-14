@@ -16,6 +16,9 @@
     "gulp-qiniu",
     "cdn"
   ],
+  "files": [
+    "lib"
+  ],
   "author": "mdemo",
   "license": "MIT",
   "bugs": {
