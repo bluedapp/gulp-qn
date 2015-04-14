@@ -1,6 +1,6 @@
 {
   "name": "gulp-qn",
-  "version": "0.0.0",
+  "version": "0.0.2",
   "description": "qiniu gulp plugin",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,8 @@
     "cdn"
   ],
   "files": [
-    "lib"
+    "lib",
+    "index.js"
   ],
   "author": "mdemo",
   "license": "MIT",
